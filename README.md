@@ -2,7 +2,7 @@
 
 This custom keyboard will grant you easy access to the Arabic transliteration character set by **DMG** (Deutsche Morgenländische Gesellschaft) / **DIN 31635**.
 
-	istiḫdāmuhu sahlan wa-sarīʿan!
+	al-istiḫdāmu sahlan wa-sarīʿan!
 	It's fast and easy to use!
 
 This transliteration is used by most academic writing, especially in German publications.
@@ -26,3 +26,4 @@ This transliteration is used by most academic writing, especially in German publ
 # Install
 
 - If you are unsure about the version you need, run the *setup.exe* file.
+- [**Download *setup.exe***](https://github.com/neezr/DMG-Transliteration-Keyboard/raw/refs/heads/main/setup.exe)
