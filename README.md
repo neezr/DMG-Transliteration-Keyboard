@@ -26,4 +26,4 @@ This transliteration is used by most academic writing, especially in German publ
 # Install
 
 - If you are unsure about the version you need, run the *setup.exe* file.
-- [**Download *setup.exe***](https://github.com/neezr/DMG-Transliteration-Keyboard/raw/refs/heads/main/setup.exe)
+- [**Download as zip-file**](https://github.com/neezr/DMG-Transliteration-Keyboard/archive/refs/heads/main.zip)
